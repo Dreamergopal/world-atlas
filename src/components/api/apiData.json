@@ -1,0 +1,43 @@
+[
+  {
+    "id": 1,
+    "country": "India",
+    "capital": "New Delhi",
+    "flag": "https://flagcdn.com/in.svg",
+    "population": "1.4 billion",
+    "fact": "India is the world's largest democracy and the birthplace of yoga."
+  },
+  {
+    "id": 2,
+    "country": "France",
+    "capital": "Paris",
+    "flag": "https://flagcdn.com/fr.svg",
+    "population": "67 million",
+    "fact": "France is home to the Eiffel Tower and is the most visited country in the world."
+  },
+  {
+    "id": 3,
+    "country": "Japan",
+    "capital": "Tokyo",
+    "flag": "https://flagcdn.com/jp.svg",
+    "population": "125 million",
+    "fact": "Japan is made up of over 6,800 islands and is famous for its cherry blossoms and sushi."
+  },
+  {
+    "id": 4,
+    "country": "Brazil",
+    "capital": "Brasília",
+    "flag": "https://flagcdn.com/br.svg",
+    "population": "213 million",
+    "fact": "Brazil is the largest country in South America and home to the Amazon Rainforest, the world's largest tropical rainforest."
+  },
+
+  {
+    "id": 5,
+    "country": "Antigua and Barbuda",
+    "capital": "Saint John's",
+    "flag": "https://flagcdn.com/ag.svg",
+    "population": "97929",
+    "fact": "Antigua is known for having 365 beaches — one for every day of the year."
+  }
+]
